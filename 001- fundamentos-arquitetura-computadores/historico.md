@@ -1,0 +1,9 @@
+Disciplina: FUNDAMENTOS E ARQUITETURA DE COMPUTADORES
+
+Ano: 2026
+
+Semestre: 51
+
+Situação: Aprovado
+
+Nota: 10,00	
